@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 😄 Nice to meet u here.
 
-Things about me:
+Something about me:
 
-👶 A CS graduate and a Ph.D student in AI.
-🔭 I’m currently working on Deepfake Generation and Detection.
-📫 Email: zhang_daichi@163.com
-🍎 Blog: [Daisy-Zhang.github.io](https://daisy-zhang.github.io/)
-💬 Ask me about anything if I can help~
+* 🤔  A CS graduate and a Ph.D student in AI.
+* 🔭 I’m currently working on Deepfake Generation and Detection.
+* 📫 Email: zhang_daichi@163.com
+* 🍎 Blog: [Daisy-Zhang.github.io](https://daisy-zhang.github.io/)
+* 💬 Ask me about anything if I can help~
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daisy-Zhang&show_icons=true&theme=radical)
 
