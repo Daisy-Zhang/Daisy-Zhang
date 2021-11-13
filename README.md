@@ -21,8 +21,8 @@ Something about me:
 
 * 🤔  A CS graduate and a Ph.D student in AI Security.
 * 🔭 I’m currently working on Deepfake Generation and Detection.
-* 📫 Email: zhangdaichi20@mails.ucas.ac.cn
-* 🍎 Blog: [Daisy-Zhang.github.io](https://daisy-zhang.github.io/)
+* 📫 Email: zhangdaichi20@mails.ucas.ac.cn.
+* 🍎 Blog: [Daisy-Zhang.github.io](https://daisy-zhang.github.io/).
 * 💬 Ask me about anything if I can help~
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daisy-Zhang&show_icons=true&theme=radical)
