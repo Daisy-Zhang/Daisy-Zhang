@@ -21,7 +21,7 @@ Something about me:
 
 * 🤔  A CS graduate and a Ph.D student in AI Security.
 * 🔭 I’m currently working on Deepfake Generation and Detection.
-* 📫 Email: zhangdaichi20@mails.ucas.ac.cn.
+* 📫 Email: daisy.zdcc@gmail.com.
 * 🍎 Blog: [Daisy-Zhang.github.io](https://daisy-zhang.github.io/).
 * 💬 Ask me about anything if I can help~
 
