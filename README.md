@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 Something about me:
 
-* 🤔  A CS graduate and a Ph.D student in AI Security.
-* 🔭 I’m currently working on Deepfake Generation and Detection.
+* 🤔  A CS graduate and a Ph.D student in AI Safety, particularly in AI-generated content detection.
 * 📫 Email: daisy.zdcc@gmail.com.
 * 🍎 Blog: [Daisy-Zhang.github.io](https://daisy-zhang.github.io/).
 * 💬 Ask me about anything if I can help~
