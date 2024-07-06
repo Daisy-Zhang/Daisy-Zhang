@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😄 Nice to meet u here.
+😄 Nice to meet you here.
 
 Something about me:
 
-* 🤔  A CS graduate and a Ph.D student in AI Safety, particularly in AI-generated content detection.
-* 📫 Email: daisy.zdcc@gmail.com.
-* 🍎 Blog: [Daisy-Zhang.github.io](https://daisy-zhang.github.io/).
-* 💬 Ask me about anything if I can help~
+* 🤔  A CS graduate and currently a Ph.D student in Computer Vision, Media Forensics, and AI Safety.
+* 📫 Email: daichi.zhang@gmail.com.
+* 🍎 Blog: [Daichi Zhang](https://daisy-zhang.github.io/).
+* 💬 If you are also interested in similar topics or seeking any form of research collaboration, please feel free to reach out to me by email. I always enjoy working with excellent researchers!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daisy-Zhang&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daisy-zhang&hide=prs&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daisy-Zhang&hide=javascript,html,jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
