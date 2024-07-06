@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 Something about me:
 
 * 🤔  A CS graduate and currently a Ph.D student in Computer Vision, Media Forensics, and AI Safety.
-* 📫 Email: daichi.zhang@gmail.com.
-* 🍎 Blog: [Daichi Zhang](https://daisy-zhang.github.io/).
-* 💬 If you are also interested in similar topics or seeking any form of research collaboration, please feel free to reach out to me by email. I always enjoy working with excellent researchers!
+* 📖 Blog: [Daichi Zhang](https://daisy-zhang.github.io/).
+* 💬 If you are also interested in similar topics or seeking any form of research collaboration, please feel free to reach out to me by [email](daisy.zdcc@gmail.com). I always enjoy working with excellent researchers!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daisy-zhang&hide=prs&include_all_commits=true)
 
