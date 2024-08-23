@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Something about me:
 
-* 🤔  Currently a CS Ph.D. student focusing on Computer Vision, Media Forensics, and AI Safety.
+* 🤔  Currently a CS Ph.D. Student focusing on Computer Vision, Media Forensics, and AI Safety.
 * 📖 Blog: [Daichi Zhang](https://daisy-zhang.github.io/).
 * 💬 If you are also interested in similar topics or seeking any form of research collaboration, please feel free to reach out to me by [email](daisy.zdcc@gmail.com). I always enjoy working with excellent researchers!
 
