@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Something about me:
 
-* 🤔 Currently an Assistant Researcher focusing on Computer Vision, Multimodal Media Forensics, and AIGC/LLM/AI Safety.
+* 🤔 Currently an Assistant Researcher focusing on AIGC/LLM/AI Safety, Multimodal Media Forensics, and Trustworthy AI.
 * 💬 If you are also interested in similar topics or seeking any form of research collaboration, please feel free to reach out to me by [email](daisy.zdcc@gmail.com). I always enjoy working with excellent researchers!
 * 📖 Homepage: [Daichi Zhang](https://daisy-zhang.github.io/).
 
